@@ -89,4 +89,8 @@ En resumen, Kubernetes, Ingress y LoadBalancer son herramientas valiosas para la
 
 
 ### REFERENCIAS:
-_ _
+_KodeKloud. (2018, 23 noviembre). Kubernetes For Beginners: Taints & Tolerations [Vídeo]. YouTube. https://www.youtube.com/watch?v=mo2UrkjA7FE_
+
+_Amazon Web Services. (2017, 31 marzo). Spire Labs: Fault-tolerance with Kubernetes on AWS [Vídeo]. YouTube. https://www.youtube.com/watch?v=xvXy2BiaWrQ_
+  
+_TechWorld with Nana. (2020, 25 enero). Benefits of Kubernetes | Scalability, High Availability, Disaster Recovery | Kubernetes Tutorial 16 [Vídeo]. YouTube. https://www.youtube.com/watch?v=g8Sf-6EsgZM_
